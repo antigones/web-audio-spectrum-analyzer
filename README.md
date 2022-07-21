@@ -1,4 +1,4 @@
-# web-audio-spectrum-analyzer
+# Web Audio API radial spectrum analyzer
 A radial web audio spectrum analyzer developed using WebAudio API, taking the input from the microphone.
 
 
